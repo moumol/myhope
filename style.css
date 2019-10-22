@@ -1,0 +1,31 @@
+body
+{
+  margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  background:#000;
+}
+
+p
+{
+  -webkit-background-image:url("image/‏‏my love.png");          
+    -moz-background-image:url("image/‏‏my love.png");
+    -o-background-image:url("image/‏‏my love.png");
+    -ms-background-image:url("image/‏‏my love.png");
+    background-image:url("image/‏‏my love.png");
+  font-size: 1px;
+  line-height: 4px;text-align:justify;
+  background-size: 60%;
+ background-repeat: no-repeat;
+  background-position: center;
+  background-attachment:fixed;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(134, 125, 125, 0);
+  
+}
+
+ 
