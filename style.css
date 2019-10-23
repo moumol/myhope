@@ -18,7 +18,8 @@
       -o-background-image:url("image/‏‏my love.png");
       -ms-background-image:url("image/‏‏my love.png");
       background-image:url("image/‏‏my love.png");
-    font-size: 3px;
+   font-family: 'Jomolhari', serif;
+     font-size: 3px;
     line-height: 4px;text-align:justify;
    background-size: cover;
    background-repeat: no-repeat;
