@@ -9,7 +9,14 @@ margin: 0;
     justify-content: center;
     height: 100vh;
   background:#000;
-  }
+
+
+
+  -webkit-user-select: none;
+     -moz-user-select: -moz-none;
+      -ms-user-select: none;
+          user-select: none;
+}
     
   button{
     -webkit-align-self: flex-start; /* Safari 7.0+ */
