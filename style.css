@@ -1,13 +1,12 @@
+  button{
+    position: fixed;
+  }
 
    body{
     margin: 0;
       padding: 0;
       font-family: 'poppins', sans-serif;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-    background:#000;
+         background:#000;
   }
   
   
@@ -19,6 +18,8 @@
       -ms-background-image:url("image/‏‏my love.png");
       background-image:url("image/‏‏my love.png");
    font-family: 'Jomolhari', serif;
+     align-items: center;
+    justify-content: center;
      font-size: 3px;
     line-height: 4px;text-align:justify;
    background-size: 60%;
@@ -29,4 +30,3 @@
     -webkit-text-fill-color: rgba(134, 125, 125, 0);
     
   }
-  
