@@ -12,10 +12,7 @@ margin: 0;
 
 
 
-  -webkit-user-select: none;
-     -moz-user-select: -moz-none;
-      -ms-user-select: none;
-          user-select: none;
+ 
 }
     
   button{
@@ -25,7 +22,12 @@ margin: 0;
   
   
   
-  p{
+  p{ -webkit-user-select: none;
+     -moz-user-select: -moz-none;
+      -ms-user-select: none;
+          user-select: none;
+     
+     
     -webkit-background-image:url("image/‏‏my love.png");          
       -moz-background-image:url("image/‏‏my love.png");
       -o-background-image:url("image/‏‏my love.png");
@@ -37,7 +39,7 @@ margin: 0;
    -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
-    background-size: contain;
+    background-size: percentage ;
    background-repeat: no-repeat;
     background-position: center;
     background-attachment:fixed;
