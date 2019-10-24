@@ -18,6 +18,7 @@ margin: 0;
   button{
     -webkit-align-self: flex-start; /* Safari 7.0+ */
     align-self: flex-start;
+margin-top:1%;
   }
   
   
